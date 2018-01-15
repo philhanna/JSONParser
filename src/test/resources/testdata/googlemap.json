@@ -1,0 +1,24 @@
+{
+   "results" : [
+      {
+         "elevation" : 114.5410537719727,
+         "location" : {
+            "lat" : 35.82,
+            "lng" : -78.75
+         },
+         "resolution" : 4.771975994110107
+      },
+      {
+         "elevation" : -2995.23,
+         "location" : {
+            "lat" : 36,
+            "lng" : -80
+         },
+         "resolution" : -1,
+         "player" : "George Herman \"Babe\" Ruth",
+         "imaginary" : true,
+         "cost" : null
+      }
+   ],
+   "status" : "OK"
+}
