@@ -59,7 +59,7 @@ public class DefaultJSONTokenizer implements JSONTokenizer {
    }
 
    /**
-    * READING_UNICODE_1 Returns <code>true</code> if the specified
+    * Returns <code>true</code> if the specified
     * character is a hexadecimal digit
     * @param c the character
     */
