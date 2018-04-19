@@ -5,6 +5,10 @@ repositories {
     jcenter()
 }
 
+eclipse {
+    project.natures 'org.eclipse.buildship.core.gradleprojectnature'
+}
+
 dependencies {
     compile 'log4j:log4j:1.2.16'
     testCompile 'junit:junit:4.12'
